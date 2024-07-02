@@ -19,7 +19,7 @@ javac Calculator.java
 Run the Program
 java Calculator
 
-Follow the Instructions:
+Follow the Instructions
 Enter the first number
 Enter the second number
 Choose an operation (+, -, *, /)
